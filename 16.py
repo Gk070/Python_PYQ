@@ -1,0 +1,2 @@
+try:
+    f = f.open()
